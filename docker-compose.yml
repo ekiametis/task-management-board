@@ -1,0 +1,8 @@
+version: '3.2'
+
+services:
+  task-management-board:
+    container_name: task-management-board
+    build: .
+    ports:
+      - 3000:80
