@@ -25,7 +25,7 @@ When the react application up, you can open your browser and try do access the U
 
 # 3. Challenge description
 
-This projects is a simulation of a Task Management Board, where you can open some Cards on Colunms, giving some descriptions, and move on these from the columns.
+This projects is a simulation of a Task Management Board, where you can open some Cards and Columns, giving some descriptions, and move these on from the columns.
 
 The default columns built and available to use are: [`To Do`, `Doing`, `Done`]
 
