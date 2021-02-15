@@ -13,7 +13,7 @@ docker-compose up
 
 ## 1.2. Npm
 
-If you want run as a development environment you can run the command below to start react applciation:
+If you want run as a development environment you can run the command below to start react application:
 
 ```
 npm start
